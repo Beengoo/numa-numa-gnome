@@ -1,6 +1,5 @@
 # numa-numa-gnome
-I like it!
-
+I cannot guarantee that the code will be executed on systems other than Arch with the GNOME shell
 
 # Execution
 ```bash
